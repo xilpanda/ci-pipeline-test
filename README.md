@@ -49,7 +49,7 @@ pytest
 
 ## CI/CD Pipeline
 
-Ovaj projekat koristi GitHub Actions za implementaciju CI/CD pipeline-a sa sledećim koracima:
+Ovaj projekat koristi GitHub Actions za implementaciju CI/CD pipeline-a sa sljedećim koracima:
 
 1. **Test** - Pokreće linting i testove
    - Linting sa flake8
